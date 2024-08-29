@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../robotron-2000-projeto_inicial"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "robotron-2000"
+	}
+}
